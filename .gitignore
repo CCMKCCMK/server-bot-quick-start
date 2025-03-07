@@ -1,3 +1,8 @@
 .DS_Store
 __pycache__/
 node_modules
+root*
+server*
+v3.ext
+wrapper_bot - 副本.py
+wrapper_bot.py
